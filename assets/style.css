@@ -1,0 +1,30 @@
+*{
+    background-color:#1f1f1f;
+    color: beige;
+}
+
+#intro-header {
+    font-family: 'GFS Neohellenic', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#event-input {
+    background-color: white;
+    width: 500px;
+    height: 20px;
+    color: black;
+}
+
+#copyright {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
